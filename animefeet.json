@@ -1,0 +1,14 @@
+{
+  "nickname": "DeltaRuneFan2001",
+  "password": "Kill79421453",
+  "script_lang": "en",
+  "wikiname": {
+    "from": "animefeet",
+    "to": "ru.animefeet",
+    "page": "Special:AllPages"
+  },
+  "list": "filelist.txt",
+  "comment": "Скриншоты эпизода Special:AllPages",
+  "text": "[[Category:Скриншоты эпизода AllPages]]",
+  "direct": true
+}
